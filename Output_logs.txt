@@ -1,0 +1,34 @@
+I (289545) BT_AV: Cancel device discovery ...
+I (289555) BT_AV: Device discovery stopped.
+I (289555) BT_AV: a2dp connecting to peer: Jabra MOVE v2.5.0
+E (289565) BT_APPL: reset flags
+I (289575) BT_AV: bt_app_av_sm_hdlr state 4, evt 0x0
+I (290715) BT_AV: bt_app_av_sm_hdlr state 4, evt 0xff00
+I (292035) BT_AV: authentication success: Jabra MOVE v2.5.0
+I (292035) BT_AV: 50 1a a5 3e 11 0e
+E (292445) BT_APPL: bta_av_rc_create ACP handle exist for shdl:0
+W (292735) BT_APPL: new conn_srvc id:18, app_id:0
+I (292735) BT_AV: bt_app_av_sm_hdlr state 4, evt 0x0
+I (292735) BT_AV: a2dp connected
+I (300715) BT_AV: bt_app_av_sm_hdlr state 5, evt 0xff00
+I (300715) BT_AV: a2dp media ready checking ...
+I (300715) BT_AV: bt_app_av_sm_hdlr state 5, evt 0x3
+I (300715) BT_AV: a2dp media ready, starting ...
+W (300725) BT_APPL: new conn_srvc id:18, app_id:1
+W (301025) BT_APPL: TX Q overflow: 18/16
+W (301055) BT_APPL: TX Q overflow: 18/17
+W (301085) BT_APPL: TX Q overflow: 19/17
+W (301115) BT_APPL: TX Q overflow: 19/16
+W (301145) BT_APPL: TX Q overflow: 18/17
+W (301175) BT_APPL: TX Q overflow: 19/17
+W (301205) BT_APPL: TX Q overflow: 19/16
+W (301235) BT_APPL: TX Q overflow: 18/17
+W (301265) BT_APPL: TX Q overflow: 19/16
+I (301285) BT_LOG: bta_av_link_role_ok hndl:x41 role:0 conn_audio:x1 bits:1 features:x824b
+
+I (301285) BT_AV: bt_app_av_sm_hdlr state 5, evt 0x3
+I (301285) BT_AV: a2dp media start successfully.
+I (301285) BT_AV: bt_app_av_sm_hdlr state 5, evt 0x1
+W (301295) BT_APPL: TX Q overflow: 18/17
+I (310715) BT_AV: bt_app_av_sm_hdlr state 5, evt 0xff00
+I (320715) BT_AV: bt_app_av_sm_hdlr state 5, evt 0xff00
